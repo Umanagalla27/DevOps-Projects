@@ -60,24 +60,12 @@ Customize the application dependencies mentioned below on AWS EC2 instance and c
 2. Login to AWS Session Manager and access the EC2 shell from console.
 3. Browse web application from public internet browser using domain name and verify that page loaded.
 
-## 🛠️ Author & Community  
+<img width="1908" height="619" alt="Screenshot 2026-03-22 171618" src="https://github.com/user-attachments/assets/823f05fc-8610-408e-b21f-16d6f2821a6d" />
+<img width="1909" height="607" alt="Screenshot 2026-03-22 171637" src="https://github.com/user-attachments/assets/1c53cac8-98a1-4074-b215-9a4c20e47b13" />
+<img width="1911" height="827" alt="Screenshot 2026-03-22 171947" src="https://github.com/user-attachments/assets/82431e4c-fd5e-4279-88e0-b555e350afae" />
+<img width="1894" height="918" alt="Screenshot 2026-03-22 171407" src="https://github.com/user-attachments/assets/4e8ce556-ac15-4454-a8a8-cc09f23cac17" />
+<img width="1918" height="965" alt="Screenshot 2026-03-22 171307" src="https://github.com/user-attachments/assets/1873f901-1c9e-47c6-ae4c-6aeead648c40" />
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
 
-📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
 
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
