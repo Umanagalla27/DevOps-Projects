@@ -18,7 +18,6 @@
 6. [Monitoring and Maintenance](#monitoring-and-maintenance)
 7. [Security Best Practices](#security-best-practices)
 8. [Troubleshooting Guide](#troubleshooting-guide)
-9. [Contributing](#contributing)
 
 ---
 
@@ -515,7 +514,4 @@ mvn install
 # Run tests
 mvn test
 ```
-![Follow Me](https://imgur.com/2j7GSPs.png)
 
-> [!Important]
-> This documentation is continuously evolving. For the latest updates, please check the repository regularly.
